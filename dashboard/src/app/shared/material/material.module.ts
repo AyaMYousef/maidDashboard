@@ -21,6 +21,4 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 export class MaterialModule {
   constructor() { }
 
-
-
 }
